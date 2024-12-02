@@ -8,10 +8,11 @@
 
 :+1: Estou em busca de **Estágio** e **atividades Freelance** para adiquirir experiência.
 
+-----------------
 ___Onde me encontrar___
+
 :book:[Meu linkendin](https://www.linkedin.com/in/sergiosousa-tec/)
 :fire: [Perfil na DIO](https://www.dio.me/users/sergioturgeo)
-
 
 -----------------
 
