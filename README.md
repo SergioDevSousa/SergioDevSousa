@@ -20,11 +20,17 @@ ___Onde me encontrar___
 
 ![Meus trabalhos GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiodevsousa&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodevsousa)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergiodevsousa)](https://github.com/sergiodevsousa/github-readme-stats)
+
 ## Tecnologias que estou praticando :newspaper:
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,css,html,bootstrap,azure,c#,nodejs,figma&theme=light)](https://skillicons.dev)
 
-</div>
+----------------------------------------
 
 ## IDE's que faço meus trabalhos :newspaper:
 
@@ -36,6 +42,8 @@ ___Onde me encontrar___
 ![umbutu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
 ![nodejs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
 ![photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
+
+------------------------------------
 
 ## Você pode me encontgrar aqui em minhas Redes Sociais :newspaper:
 
