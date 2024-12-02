@@ -28,21 +28,28 @@ ___Onde me encontrar___
 
 </div>
 
-## IDE's que faço meus trabalhos.
+## IDE's que faço meus trabalhos
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gemini AI" height="30" width="100" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff">
-  <img align="center" alt="Gemini AI" height="30" width="100" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  <img align="center" alt="Gemini AI" height="30" width="100" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="Gemini AI" height="30" width="100" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  
-</div>
+![figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg)
 
-## Você pode me encontgrar aqui em minhas Redes Sociais!
- 
-<div> 
-  <a href="https://www.youtube.com/@TecServ/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="sergiosousa_33291" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "oxenttesergio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sergiosousa-tec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+![git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+
+![visual studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+
+![winwos10](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows103.svg)
+
+![vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg)
+
+![umbutu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
+
+![nodejs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+
+![photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
+
+## Você pode me encontgrar aqui em minhas Redes Sociais
+
+![Linkendin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)
+
+![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
+
+![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
