@@ -1,14 +1,29 @@
-## Olá, Meu nome é Sérgio Sousa e este é meu perfil DEV 😁
+# Olá, Meu nome é Sérgio Sousa e este é meu perfil DEV 😁
+
+![Git hello](https://raw.githubusercontent.com/gist/JayaRaghavendra/5289d3687bf8bcd6d806b3655e11c7f4/raw/abf4b7228cadc93427e398a7f4d8fb031988c90d/Hello%20World.gif)
+
+:pill: Estou em transição de carreira e estou evoluindo como **Desenvovedor Web Front-End Jr**
+
+:muscle: Atuamente estou concluindo o **Tecnólogo em Análise e Desenvolvimento de Sistema**
+
+:+1: Estou em busca de **Estágio** e **atividades Freelance** para adiquirir experiência.
+
+___Onde me encontrar___
+:book:[Meu linkendin](https://www.linkedin.com/in/sergiosousa-tec/)
+:fire: [Perfil na DIO](https://www.dio.me/users/sergioturgeo)
+
+
+-----------------
 
  <div>
    <a href="https://github.com/SergioDevSousa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioDevSousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioDevSousa&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
-## Linguagens de programação que estou praticando.
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,css,html,nodejs,figma&theme=light)](https://skillicons.dev)
+## Tecnologias que estou praticando
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,css,html,bootstrap,azure,c#,nodejs,figma&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -20,9 +35,8 @@
   <img align="center" alt="Gemini AI" height="30" width="100" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Gemini AI" height="30" width="100" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   
-  
 </div>
- 
+
 ## Você pode me encontgrar aqui em minhas Redes Sociais!
  
 <div> 
