@@ -13,43 +13,32 @@ ___Onde me encontrar___
 
 :book:[Meu linkendin](https://www.linkedin.com/in/sergiosousa-tec/)
 :fire: [Perfil na DIO](https://www.dio.me/users/sergioturgeo)
+:dart: [curriculum lates](http://lattes.cnpq.br/6036378764243597)
+:notebook_with_decorative_cover: [portifolio](https://portifolio-react-lovat.vercel.app/#projetos)
 
 -----------------
 
- <div>
-   <a href="https://github.com/SergioDevSousa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioDevSousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioDevSousa&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+![Meus trabalhos GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiodevsousa&show_icons=true&theme=tokyonight)
 
-## Tecnologias que estou praticando
+## Tecnologias que estou praticando :newspaper:
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,css,html,bootstrap,azure,c#,nodejs,figma&theme=light)](https://skillicons.dev)
 
 </div>
 
-## IDE's que faço meus trabalhos
+## IDE's que faço meus trabalhos :newspaper:
 
 ![figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg)
-
 ![git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-
 ![visual studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
-
 ![winwos10](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows103.svg)
-
 ![vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg)
-
 ![umbutu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
-
 ![nodejs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-
 ![photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
 
-## Você pode me encontgrar aqui em minhas Redes Sociais
+## Você pode me encontgrar aqui em minhas Redes Sociais :newspaper:
 
 ![Linkendin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)
-
 ![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
-
 ![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
