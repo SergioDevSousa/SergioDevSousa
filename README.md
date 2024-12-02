@@ -9,7 +9,7 @@
 :+1: Estou em busca de **Estágio** e **atividades Freelance** para adiquirir experiência.
 
 -----------------
-___Onde me encontrar___
+**Onde me encontrar**.
 
 :book:[Meu linkendin](https://www.linkedin.com/in/sergiosousa-tec/)
 :fire: [Perfil na DIO](https://www.dio.me/users/sergioturgeo)
@@ -22,15 +22,11 @@ ___Onde me encontrar___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodevsousa)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergiodevsousa)](https://github.com/sergiodevsousa/github-readme-stats)
-
 ## Tecnologias que estou praticando :newspaper:
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,css,html,bootstrap,azure,c#,nodejs,figma&theme=light)](https://skillicons.dev)
 
-----------------------------------------
+-----------------
 
 ## IDE's que faço meus trabalhos :newspaper:
 
