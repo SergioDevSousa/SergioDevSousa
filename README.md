@@ -14,7 +14,7 @@
 :book:[Meu linkendin](https://www.linkedin.com/in/sergiosousa-tec/)
 :fire: [Perfil na DIO](https://www.dio.me/users/sergioturgeo)
 :dart: [curriculum lates](http://lattes.cnpq.br/6036378764243597)
-:notebook_with_decorative_cover: [portifolio](https://portifolio-react-lovat.vercel.app/#projetos)
+:notebook_with_decorative_cover: [portifolio](https://devserjaoportifolio.netlify.app/)
 
 -----------------
 
