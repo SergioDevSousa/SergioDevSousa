@@ -46,8 +46,4 @@
 ![nodejs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
 ![photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
 
-------------------------------------
-
-## Você pode me encontgrar aqui em minhas Redes Sociais :newspaper:
-
 
