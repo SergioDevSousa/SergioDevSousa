@@ -1,10 +1,19 @@
-# Olá, Meu nome é Sérgio Sousa e este é meu perfil DEV 😁
+## Olá, Meu nome é Sérgio Sousa 🖐😁
 
-![Git hello](https://raw.githubusercontent.com/gist/JayaRaghavendra/5289d3687bf8bcd6d806b3655e11c7f4/raw/abf4b7228cadc93427e398a7f4d8fb031988c90d/Hello%20World.gif)
+<div style="display: flex; align-items: center; gap: 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280">
+    <p style="max-width: 500px; text-align: justify;">
+        Formação em Análise e Desenvolvimento de Sistemas pela UNIFATECIE, busco oportunidade e evoluir minha carreira como Web Developer Engineer Front-End Junior, desenvolvendo habilidades em projetos pessoais ou freelancer e treinamento com Bootcamp ou eventos na área de tecnologia. Atualmente estou melhorando meu inglês básico para melhor entendimento global e evolução na carreira com IA. Busco criar soluções que facilitem a vida das pessoas em resolver problemas com aplicativos web e espero contribuir com uma equipe inovadora.
+    </p>
+</div>
+<hr>
+<div>
+    <h3>Meus Trabalhos GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=sergiodevsousa&show_icons=true&theme=tokyonight" width="350">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodevsousa">
+</div>
 
-:pill: Estou em transição de carreira e estou evoluindo como **Desenvovedor Web Front-End Jr**
-
-:muscle: Atuamente estou concluindo o **Tecnólogo em Análise e Desenvolvimento de Sistema**
+:pill: Formação em Análise e Desenvolvimento de Sistemas e **Desenvovedor Web Front-End Jr**
 
 :+1: Estou em busca de **Estágio** e **atividades Freelance** para adiquirir experiência.
 
@@ -18,9 +27,7 @@
 
 -----------------
 
-![Meus trabalhos GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiodevsousa&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodevsousa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou praticando :newspaper:
 
