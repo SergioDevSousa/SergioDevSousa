@@ -17,23 +17,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodevsousa&layout=compact">
 </p>
 
------------------
-**Onde me encontrar**.
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌 Localizar na Comunidade
 
-:book:[Meu linkendin](https://www.linkedin.com/in/sergiosousa-tec/)
-:fire: [Perfil na DIO](https://www.dio.me/users/sergioturgeo)
-:dart: [curriculum lates](http://lattes.cnpq.br/6036378764243597)
-:notebook_with_decorative_cover: [portifolio](https://devserjaoportifolio.netlify.app/)
-
------------------
+![Linkendin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)
+![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
+![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
 
 
 
-## Tecnologias que estou praticando :newspaper:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,css,html,bootstrap,azure,c#,nodejs,figma&theme=light)](https://skillicons.dev)
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tecnologias que estou praticando :newspaper:
 
------------------
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,html,azure,c#,nodejs,javascript,laravel,linux,figma,typescript" />
+  </a>
+</p>
 
 ## IDE's que faço meus trabalhos :newspaper:
 
@@ -50,6 +50,4 @@
 
 ## Você pode me encontgrar aqui em minhas Redes Sociais :newspaper:
 
-![Linkendin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)
-![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
-![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
+
