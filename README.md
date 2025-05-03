@@ -1,7 +1,9 @@
+https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/src/image/avatar.png" width="250"
+
 <table border="0">
     <tr>
         <td style="width: 40%;">
-            <img src="/home/sergiosousa/SergioDevSousa/src/image/avatar.png" width="250" align="center">
+            <img src="https://raw.githubusercontent.com/SergioDevSousa/src/image/avatar.png" width="250" align="center">
         </td>
         <td style="width: 60%;">
           <p style="font-size: 42px;">Olá, Meu nome é Sérgio Sousa 🖐😁</p>
