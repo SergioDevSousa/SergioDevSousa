@@ -1,6 +1,5 @@
 <article>
     <div align="center">
-        <img src="./src/image/avatar.png" width="250" style="border-radius: 50%;">
         <h1>Olá, Meu nome é Sérgio Sousa 🖐😁</h1>
         <p>
             <a href="https://www.linkedin.com/in/sergiosousa-tec/">
