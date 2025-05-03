@@ -23,9 +23,6 @@
         <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250">
     </div>
 
-</article>
-
-
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Meus Trabalhos e GitHub Stats
 
 <p align="center"; gap="20">
@@ -52,5 +49,10 @@
 ![umbutu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
 ![nodejs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
 ![photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
+
+</article>
+
+
+
 
 
