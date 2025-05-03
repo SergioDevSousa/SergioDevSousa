@@ -1,6 +1,6 @@
 <article>
     <div align="center">
-        <h1>Olá, Meu nome é Sérgio Sousa 🖐😁</h1>
+        <h1>Olá, Meu nome é Sérgio Sousa 🖐😁 Bem vindo ao meu GutHub</h1>
         <p>
             <a href="https://www.linkedin.com/in/sergiosousa-tec/">
                 <img src="./src/image/linkedin.png" width="30">
