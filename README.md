@@ -1,4 +1,18 @@
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, Meu nome é Sérgio Sousa 🖐😁
+<table border="0">
+    <tr>
+        <td style="width: 40%;">
+            <img src="/home/sergiosousa/SergioDevSousa/src/image/avatar.png" width="250" align="center">
+        </td>
+        <td style="width: 60%;">
+          <p style="font-size: 42px;">Olá, Meu nome é Sérgio Sousa 🖐😁</p>
+              <a href="https://www.linkedin.com/in/sergiosousa-tec/"><img src="/home/sergiosousa/SergioDevSousa/src/image/linkedin.png" width="30" style="padding: 10px;"> </a>
+              <a href="http://discordapp.com/users/sergiosousa_33291" rel="nofollow"><img src="/home/sergiosousa/SergioDevSousa/src/image/discordia.png" width="30" style="padding: 10px;"> </a>
+              <a href="https://www.youtube.com/@devserjao"><img src="/home/sergiosousa/SergioDevSousa/src/image/youtube.png" width="30" style="padding: 10px;"> </a>
+        </td>
+    </tr>
+</table>
+
+
 <table border="0">
     <tr>
         <td style="width: 60%;">
@@ -10,21 +24,13 @@
     </tr>
 </table>
 
+
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Meus Trabalhos e GitHub Stats
 
 <p align="center"; gap="20">
   <img src="https://github-readme-stats.vercel.app/api?username=sergiodevsousa&show_icons=true&theme=tokyonight" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodevsousa&layout=compact">
 </p>
-
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌 Localizar na Comunidade
-
-![Linkendin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)
-![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
-![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
-
-
-
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tecnologias que estou praticando :newspaper:
 
