@@ -5,9 +5,9 @@
         </td>
         <td style="width: 60%;">
           <p style="font-size: 40px;">Olá, Meu nome é Sérgio Sousa 🖐😁</p>
-              <a href="https://www.linkedin.com/in/sergiosousa-tec/"><img src="/home/sergiosousa/SergioDevSousa/src/image/linkedin.png" width="30" style="padding: 10px;"> </a>
-              <a href="http://discordapp.com/users/sergiosousa_33291" rel="nofollow"><img src="/home/sergiosousa/SergioDevSousa/src/image/discordia.png" width="30" style="padding: 10px;"> </a>
-              <a href="https://www.youtube.com/@devserjao"><img src="/home/sergiosousa/SergioDevSousa/src/image/youtube.png" width="30" style="padding: 10px;"> </a>
+              <a href="https://www.linkedin.com/in/sergiosousa-tec/"><img src="./src/image/linkedin.png" width="30" style="padding: 10px;"> </a>
+              <a href="http://discordapp.com/users/sergiosousa_33291" rel="nofollow"><img src="./src/image/discordia.png" width="30" style="padding: 10px;"> </a>
+              <a href="https://www.youtube.com/@devserjao"><img src="./src/image/youtube.png" width="30" style="padding: 10px;"> </a>
         </td>
     </tr>
 </table>
