@@ -1,12 +1,10 @@
-https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/src/image/avatar.png" width="250"
-
 <table border="0">
     <tr>
         <td style="width: 40%;">
-            <img src="https://raw.githubusercontent.com/SergioDevSousa/src/image/avatar.png" width="250" align="center">
+            <img src="./src/image/avatar.png" width="250" align="center">
         </td>
         <td style="width: 60%;">
-          <p style="font-size: 42px;">Olá, Meu nome é Sérgio Sousa 🖐😁</p>
+          <p style="font-size: 40px;">Olá, Meu nome é Sérgio Sousa 🖐😁</p>
               <a href="https://www.linkedin.com/in/sergiosousa-tec/"><img src="/home/sergiosousa/SergioDevSousa/src/image/linkedin.png" width="30" style="padding: 10px;"> </a>
               <a href="http://discordapp.com/users/sergiosousa_33291" rel="nofollow"><img src="/home/sergiosousa/SergioDevSousa/src/image/discordia.png" width="30" style="padding: 10px;"> </a>
               <a href="https://www.youtube.com/@devserjao"><img src="/home/sergiosousa/SergioDevSousa/src/image/youtube.png" width="30" style="padding: 10px;"> </a>
